@@ -16,6 +16,7 @@ The goal of this project is to answer specific questions about the sales data us
 What Are Joins and Union?
 
 Joins
+
 Joins are used in SQL to combine rows from two or more tables based on a related column.
 
 Inner Join: Combines rows from two tables where the related column matches in both tables. If there's no match, the row is not included.
@@ -27,6 +28,7 @@ Right Join (or Right Outer Join): Returns all rows from the right table and the 
 Full Join (or Full Outer Join): Returns rows when there is a match in one of the tables. If there's no match, the result is NULL from the table without a match.
 
 Union
+
 Union is used to combine the results of two or more SELECT statements. Each SELECT statement within the UNION must have the same number of columns in the result sets with similar data types.
 
 Project Content
