@@ -1,6 +1,6 @@
 Sales Data Analysis Project Using Joins and Union
 
-Project Overview
+Project Overview:
 This project involves analyzing sales data using joins and union operations in SQL. The tables provided for this project are:
 
 Product Table: Contains ProductID, ProductName, and Price.
@@ -32,7 +32,9 @@ Union
 Union is used to combine the results of two or more SELECT statements. Each SELECT statement within the UNION must have the same number of columns in the result sets with similar data types.
 
 Project Content
+
 SQL File: Contains the SQL queries used to answer the project questions using joins and union operations.
+
 Questions: The specific questions that were answered using these SQL operations.
 
 For any questions or feedback, feel free to reach out.
